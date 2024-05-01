@@ -1,5 +1,11 @@
 # PyQt5
-Designing and launching of Login &amp; Registration form using PyQt5 and QT Designer
+
+Designing & Launching PyQt5 application featuring secure login functionality, dynamic UI elements, and seamless screen switching
+
+Tasks:
+1. Developed a robust PyQt5 application featuring secure login functionality, dynamic UI elements, and seamless screen switching
+2. Utilized QtWidgets and QtDialog for enhanced functionality and onClicked events in PyQt5 buttons for dynamic user interactions. 
+Keywords: PyQt5, Python, QT Designer, UI Application, dynamic UI
 
 
 1. Login & Sign Up form windows, designed in QT Designer
